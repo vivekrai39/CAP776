@@ -1,0 +1,75 @@
+==============================================================================
+   CAP776 Minor Project #1: My Data, My Story
+   Personal Activity Intelligence Report
+==============================================================================
+Student Name     : Vivek Kumar Rai
+Registration No. : 12618749
+Course / Section : MCA - D1P2633
+Data File        : data\12618749.xlsx
+Worksheet        : Daily Log
+------------------------------------------------------------------------------
+Recording Period : 2026-08-15 to 2026-09-21
+Logged Days      : 38 / 38 expected days
+------------------------------------------------------------------------------
+
+1. Activity Data Summary (Daily Averages)
+------------------------------------------------------------------------------
+Expected number of days           : 38
+Valid days recorded               : 38
+Missing days                      : 0
+Invalid / excluded records        : 0
+Average Sleep / day               : 404.21 min/day (~6.74 hrs)
+Average Fitness / day             : 51.18 min/day (~0.85 hrs)
+Average Study / day               : 162.89 min/day (~2.71 hrs)
+Average Coding / day              : 103.03 min/day (~1.72 hrs)
+Average Class / day               : 193.42 min/day (~3.22 hrs)
+Average Other Activities / day    : 70.66 min/day (~1.18 hrs)
+Average Free / Unaccounted Time   : 454.61 min/day (~7.58 hrs)
+------------------------------------------------------------------------------
+
+2. Activity Index Values
+------------------------------------------------------------------------------
+Index Name                       Acronym  Value              Unit / Scale
+------------------------------------------------------------------------------
+Tech Productivity                TPI          103.03        min/day
+Academic Activity                AAI          356.32        min/day
+Physical Activity                PhAI          51.18        min/day
+Sleep & Recovery                 SRI          404.21        min/day
+Activity Balance                 ABI          454.61        min/day
+Time Utilization                 TUI          985.39        min/day
+Experience Index                 EI             3.37        / 5
+Data Continuity Index            DCI          100.00        %
+------------------------------------------------------------------------------
+Personal Activity Index          PAI          328.38        composite score
+==============================================================================
+
+[Time Budget Balance Verification]
+Total Tracked (TUI) + Free Time (ABI) = 985.39 + 454.61 = 1440.00 minutes
+24 Hours = 1440.00 minutes -> Variance = 0.00 minutes
+
+==============================================================================
+   RELATIONSHIP ANALYSIS (Pearson Correlation Coefficient - r)
+==============================================================================
+
+1. Sleep <-> Energy:
+   r = +0.0824 (negligible positive relationship between Sleep Duration and Energy Level)
+
+2. Study <-> Satisfaction:
+   r = +0.0775 (negligible positive relationship between Study Time and Satisfaction Level)
+
+3. Coding <-> Energy:
+   r = +0.1983 (weak positive relationship between Coding Time and Energy Level)
+
+==============================================================================
+   FINDINGS ABOUT MY ROUTINE & AREAS FOR IMPROVEMENT
+==============================================================================
+Findings About Myself:
+- Sleep was my highest-priority waking activity, averaging 404.21 min/day (~6.74 hrs/day).
+- I logged all 38 planned days with zero gaps, achieving a 100% Data Continuity Index.
+- I maintained a healthy fitness routine, averaging 51 min/day.
+
+Areas to Improve:
+- My average sleep was only 6.74 hrs/day; I plan to aim closer to 8 hours to reduce fatigue and improve focus.
+- I had 455 min/day of unaccounted free time; converting some of it into planned study or fitness time could raise my overall PAI.
+==============================================================================
+
